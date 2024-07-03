@@ -205,9 +205,9 @@ button:hover,
 
 /* Bluesky Alt */
 .button.button-bluesky-alt {
-  color: #000000;
-  background-color: #FFFFFF;
-  border: 1px solid #000000;
+  color: #2F2F2F;
+  background-color: #F4F2EB;
+  border: 2px solid #5D4E41;
 }
 .button.button-bluesky-alt:hover,
 .button.button-bluesky-alt:focus {
