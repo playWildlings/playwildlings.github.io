@@ -207,6 +207,13 @@ hr {
   border-radius: 50%;
 }
 
+.avatar2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; /* Adjusts the width to 50% of the original size */
+}
+
 /* open-sans-regular - vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
